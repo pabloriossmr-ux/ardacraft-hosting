@@ -1,0 +1,10 @@
+body, html{
+    background-color: #131a36;
+}
+
+.title{
+    font-family: sans-serif;
+    color: #FFFFFF;
+    font-weight: 800;
+    font-size: 800px;
+}
